@@ -1,4 +1,4 @@
-# NLP-proyecto-curso
+# NLP-proyecto 7-curso
 # OLIVARES VENTURA, Ricardo Leonardo
 # 20192002A
 
